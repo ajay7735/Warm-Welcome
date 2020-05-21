@@ -5,7 +5,7 @@ const winston = require("winston")
 const logger = require("./logger")
 
 const client = new Commando.Client({
-    owner: '193053876692189184',
+    owner: '564788190976671745',
     commandPrefix: ".",
     unknownCommandResponse: false
 });
